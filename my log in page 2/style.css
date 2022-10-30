@@ -1,0 +1,46 @@
+.container{
+    background-color: #C70039;
+    font-family: "Poppins", sans-serif;
+    width: 400px ;
+    height: 760px;
+    margin:  0 auto;
+    text-align: center ;
+    border-radius: 25px;
+}
+.logo{
+    width: 250px ;
+    height:130px ;
+    padding: 25px 10% 0 10% ;
+    margin-top: 0 ;
+}
+.sign-up{
+font-size: 32px ;
+margin: 0 ;
+color: honeydew ;
+font-weight: bold ;
+}
+h3{
+    text-align: left;
+    font-size: 15px;
+    color: honeydew;
+    margin: 4px 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.elements{
+    width: 75%;
+    padding: 7px;
+    border: 0;
+    margin-bottom: ;
+
+}
